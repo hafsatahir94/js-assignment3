@@ -21,7 +21,10 @@
 // if (user === "green") {
 //   document.write("<tr><td>green</td> <td>move now</tr>")
 // }
-
+// let user=prompt("please tell me how much litres")
+// if (user <0.25) {alert("please refill the fuel in your car")
+    
+// }
 
 
 
